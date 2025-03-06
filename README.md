@@ -27,3 +27,7 @@ Zillya
 Trojan.Agent.Win32.4167152
 
 These are also false positive due to PyInstaller. If you do not believe me, Google "PyInstaller False Positive"
+
+
+###TAGS###
+python, cmd, promt, terminal, py, pyinstaller, project
